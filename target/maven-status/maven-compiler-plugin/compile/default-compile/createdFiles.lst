@@ -1,6 +1,0 @@
-com\example\threetier\controller\ProductController.class
-com\example\threetier\entity\Product.class
-com\example\threetier\service\ProductService.class
-com\example\threetier\config\DataLoader.class
-com\example\threetier\repository\ProductRepository.class
-com\example\threetier\ThreeTierApplication.class
